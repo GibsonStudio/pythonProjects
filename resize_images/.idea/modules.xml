@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../build_slideshow/.idea/build_slideshow.iml" filepath="$PROJECT_DIR$/../build_slideshow/.idea/build_slideshow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../build_video_lesson/.idea/build_video_lesson.iml" filepath="$PROJECT_DIR$/../build_video_lesson/.idea/build_video_lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fibonacci/.idea/fibonacci.iml" filepath="$PROJECT_DIR$/../fibonacci/.idea/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../playground/.idea/playground.iml" filepath="$PROJECT_DIR$/../playground/.idea/playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../preg_replace_rename_files/.idea/preg_replace_rename_files.iml" filepath="$PROJECT_DIR$/../preg_replace_rename_files/.idea/preg_replace_rename_files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../remove_double_extension/.idea/remove_double_extension.iml" filepath="$PROJECT_DIR$/../remove_double_extension/.idea/remove_double_extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../remove_mp4video/.idea/remove_mp4video.iml" filepath="$PROJECT_DIR$/../remove_mp4video/.idea/remove_mp4video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rename_slides/.idea/rename_slides.iml" filepath="$PROJECT_DIR$/../rename_slides/.idea/rename_slides.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/resize_images.iml" filepath="$PROJECT_DIR$/.idea/resize_images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scorm_builder/.idea/scorm_builder.iml" filepath="$PROJECT_DIR$/../scorm_builder/.idea/scorm_builder.iml" />
+    </modules>
+  </component>
+</project>
