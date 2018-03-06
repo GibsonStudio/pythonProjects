@@ -1,4 +1,0 @@
-
-print("running....")
-
-import mvc
