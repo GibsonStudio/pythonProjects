@@ -16,5 +16,9 @@
     <orderEntry type="module" module-name="cbt_comiper" />
     <orderEntry type="module" module-name="cbt_comiper" />
     <orderEntry type="module" module-name="cbt_compiler" />
+    <orderEntry type="module" module-name="calculate_pi" />
+    <orderEntry type="module" module-name="find_unused_in_html" />
+    <orderEntry type="module" module-name="lesson" />
+    <orderEntry type="module" module-name="scorm_builder" />
   </component>
 </module>
