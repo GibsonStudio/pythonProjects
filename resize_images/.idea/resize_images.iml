@@ -13,5 +13,8 @@
     <orderEntry type="module" module-name="build_slideshow" />
     <orderEntry type="module" module-name="rename_slides" />
     <orderEntry type="module" module-name="scorm_builder" />
+    <orderEntry type="module" module-name="cbt_comiper" />
+    <orderEntry type="module" module-name="cbt_comiper" />
+    <orderEntry type="module" module-name="cbt_compiler" />
   </component>
 </module>
