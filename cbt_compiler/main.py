@@ -114,6 +114,7 @@ for folder in lessonFolders:
 
 # copy library files
 print('Copying system / lib files (this could take a few minutes)....')
+item = 1
 
 for folder in lessonFolders:
 
@@ -125,9 +126,11 @@ for folder in lessonFolders:
         shutil.copytree(sourceDir, destDir)
 
         if os.path.isdir(destDir):
-            print('OK')
+            print('OK (' + str(item) + '/' + str(len(lessonFolders)) + ')')
         else:
             sys.exit('ERROR: ' + destDir + ' not copied!!')
+
+    item = item + 1
 
 
 
@@ -156,6 +159,7 @@ if includeRTimages:
 
 # copy lesson files
 print('Copying lesson files (this could take a few minutes)....')
+item = 1
 for folder in lessonFolders:
 
     sourceDir = cfg.contentDir + '/' + folder
@@ -164,10 +168,11 @@ for folder in lessonFolders:
     shutil.copytree(sourceDir, destDir)
 
     if os.path.isdir(destDir):
-        print('OK')
+        print('OK (' + str(item) + '/' + str(len(lessonFolders)) + ')')
     else:
         sys.exit('ERROR: ' + destDir + ' not copied!!')
 
+    item = item + 1
 
 
 
