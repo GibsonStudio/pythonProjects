@@ -1,0 +1,7 @@
+@media (min-height:697px) {
+	#main_container {
+		position:relative !important; top:50% !important; left:auto !important;
+		transform:translateY(-50%) !important;
+		margin:auto;
+	}
+}

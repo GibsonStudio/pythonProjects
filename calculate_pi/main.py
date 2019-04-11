@@ -1,6 +1,6 @@
 import pi
 
-iterations = 100000
+iterations = 10
 
 print('Gregory-Leibniz:')
 pi.test_gregory_leibniz(iterations)

@@ -21,5 +21,8 @@
     <orderEntry type="module" module-name="lesson" />
     <orderEntry type="module" module-name="scorm_builder" />
     <orderEntry type="module" module-name="cbt_compiler" />
+    <orderEntry type="module" module-name="python_play" />
+    <orderEntry type="module" module-name="drawing" />
+    <orderEntry type="module" module-name="mcrm" />
   </component>
 </module>

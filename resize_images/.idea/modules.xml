@@ -6,11 +6,14 @@
       <module fileurl="file://$PROJECT_DIR$/../build_video_lesson/.idea/build_video_lesson.iml" filepath="$PROJECT_DIR$/../build_video_lesson/.idea/build_video_lesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/../calculate_pi/.idea/calculate_pi.iml" filepath="$PROJECT_DIR$/../calculate_pi/.idea/calculate_pi.iml" />
       <module fileurl="file://$PROJECT_DIR$/../cbt_compiler/.idea/cbt_compiler.iml" filepath="$PROJECT_DIR$/../cbt_compiler/.idea/cbt_compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../drawing/.idea/drawing.iml" filepath="$PROJECT_DIR$/../drawing/.idea/drawing.iml" />
       <module fileurl="file://$PROJECT_DIR$/../fibonacci/.idea/fibonacci.iml" filepath="$PROJECT_DIR$/../fibonacci/.idea/fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/../find_unused_in_html/.idea/find_unused_in_html.iml" filepath="$PROJECT_DIR$/../find_unused_in_html/.idea/find_unused_in_html.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lesson/.idea/lesson.iml" filepath="$PROJECT_DIR$/../lesson/.idea/lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mcrm/.idea/mcrm.iml" filepath="$PROJECT_DIR$/../mcrm/.idea/mcrm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../playground/.idea/playground.iml" filepath="$PROJECT_DIR$/../playground/.idea/playground.iml" />
       <module fileurl="file://$PROJECT_DIR$/../preg_replace_rename_files/.idea/preg_replace_rename_files.iml" filepath="$PROJECT_DIR$/../preg_replace_rename_files/.idea/preg_replace_rename_files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_play/.idea/python_play.iml" filepath="$PROJECT_DIR$/../python_play/.idea/python_play.iml" />
       <module fileurl="file://$PROJECT_DIR$/../remove_double_extension/.idea/remove_double_extension.iml" filepath="$PROJECT_DIR$/../remove_double_extension/.idea/remove_double_extension.iml" />
       <module fileurl="file://$PROJECT_DIR$/../remove_mp4video/.idea/remove_mp4video.iml" filepath="$PROJECT_DIR$/../remove_mp4video/.idea/remove_mp4video.iml" />
       <module fileurl="file://$PROJECT_DIR$/../rename_slides/.idea/rename_slides.iml" filepath="$PROJECT_DIR$/../rename_slides/.idea/rename_slides.iml" />

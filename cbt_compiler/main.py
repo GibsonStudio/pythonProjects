@@ -8,7 +8,7 @@ import shutil
 
 
 # runtime flags
-includeRTimages = False
+includeRTimages = True
 
 
 

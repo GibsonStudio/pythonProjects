@@ -17,8 +17,20 @@ class Animal:
         txt = 'This is a ' + self.color + ' ' + self.species + '. ' + self.species + 's have ' + str(self.legs) +' legs.'
         print(txt)
 
-d = Animal({'species':'cat', 'legs':2, 'color':'black'})
 
-print(d.species)
-d.info()
 
+
+def t(*tup, **dic):
+
+    print('tuple: ', end='')
+    for e in tup:
+        print(str(e) + ', ', end='')
+    print()
+
+    print('dictionary: ', end='')
+    for e in dic:
+        print(str(dic[e]) + ', ', end='')
+    print()
+
+
+t(1974,44,name='jon')
